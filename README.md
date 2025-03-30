@@ -42,7 +42,7 @@ Follow these steps to set up and run the project:
 
 ### Pipeline Wokflow
 ```
-<img width="949" alt="example_output_pipelineworkflow" src="https://github.com/user-attachments/assets/01868144-e3f3-4577-8fab-057b062d74d0" />
+<[img width="949" alt="example_output_pipelineworkflow" src="https://github.com/user-attachments/assets/01868144-e3f3-4577-8fab-057b062d74d0"](https://github.com/ShahdTarek4/LLM_Workflows/blob/main/example_output_pipelineworkflow.png) />
 
 
 ```
