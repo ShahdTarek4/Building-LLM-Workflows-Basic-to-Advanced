@@ -41,32 +41,22 @@ Follow these steps to set up and run the project:
 ## Example Outputs
 
 ### Pipeline Wokflow
-```
-<[img width="949" alt="example_output_pipelineworkflow" src="https://github.com/user-attachments/assets/01868144-e3f3-4577-8fab-057b062d74d0"](https://github.com/ShahdTarek4/LLM_Workflows/blob/main/example_output_pipelineworkflow.png) />
-
-
-```
+<img width="949" alt="example_output_pipelineworkflow" src="https://github.com/user-attachments/assets/de50b19f-4b2c-46e3-9f9f-6a79e1052c93" />
 
 ### DAG Workflow
-```
+
 <img width="846" alt="example_output_dagworkflow" src="https://github.com/user-attachments/assets/2e8cf312-ba73-460e-b56b-f9b82c177dae" />
 
-
-```
-
 ### Reflexion Enhancment 
-```
-
 <img width="857" alt="example_output_reflexion" src="https://github.com/user-attachments/assets/22717a5d-fcec-4d47-bfd4-6c3bec650ccd" />
 
-```
 
 ### Agent Driven Workflow 
-```
+
 
 <img width="848" alt="example_output_agent-drivenworkflow" src="https://github.com/user-attachments/assets/df53c34f-c528-471a-b535-2b14c0020ca7" />
 
-```
+
 
 ## Effectiveness Analysis
 
