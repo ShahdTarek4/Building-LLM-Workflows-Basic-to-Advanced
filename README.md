@@ -16,7 +16,7 @@ Follow these steps to set up and run the project:
 
 1. **Clone the Repository**
    ```
-   git clone <repository-url>
+   git clone https://github.com/ShahdTarek4/LLM_Workflows
    cd <repository-folder>
    ```
 
@@ -60,16 +60,16 @@ Follow these steps to set up and run the project:
 
 ## Effectiveness Analysis
 
-- **Pipeline Workflow***: Ensures a linear, structured sequence of operations. Although easy to use and debug, it is not highly flexible—if one step fails, the entire process fails.
+- **Pipeline Workflow**: Ensures a linear, structured sequence of operations. Although easy to use and debug, it is not highly flexible—if one step fails, the entire process fails.
 - **Directed Acyclic Graph (DAG) Workflow**: Offers more parallelism and modularity than pipelines. It allows independent execution of operations where possible, which improves the process. However, it requires more complex setup and monitoring.
 - **Reflection Workflow**: Enables self-correction and improvement in real-time by incorporating feedback loops. This makes outputs more refined but can lead to higher computational costs and potential response delays.
 - **Agent-driven Workflow**: Uses AI agents to autonomously make workflow execution decisions. This enables dynamic execution of activities but brings uncertainty in outputs due to the unpredictable nature of llms.
 
-## Challenges 
+#### Challenges ####
 
-### 1. **Empty Outputs for Some Workflows**
+##### 1. Empty Outputs for Some Workflows #####
 
-### 2. **Model Response Inconsistency**
+##### 2. Model Response Inconsistency #####
    
 
 
