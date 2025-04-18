@@ -16,7 +16,7 @@ Follow these steps to set up and run the project:
 
 1. **Clone the Repository**
    ```
-   git clone https://github.com/ShahdTarek4/LLM_Workflows
+   git clone https://github.com/ShahdTarek4/Building-LLM-Workflows-Basic-to-Advanced
    cd <repository-folder>
    ```
 
